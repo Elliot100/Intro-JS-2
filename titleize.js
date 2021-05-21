@@ -9,3 +9,4 @@ const titleize = function( array ) {
 }
 
 titleize(["Mary", "Brian", "Leo"], printCallback);
+
